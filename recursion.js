@@ -321,7 +321,9 @@ function sum(n) {
          else
          return str1[str1.length-1].toLowerCase() + mirrorCaseAlso(str1.slice(0,-1));
   }
-  
+  console.log(mirrorCaseAlso("sChOol"));
+  console.log(mirrorCaseAlso("THOR"));
+  console.log(mirrorCaseAlso("BaBa"));
   /*
   14
   Write a function called repeatChar
