@@ -323,7 +323,7 @@ function sum(n) {
   }
   console.log(mirrorCaseAlso("sChOol"));
   console.log(mirrorCaseAlso("THOR"));
-  console.log(mirrorCaseAlso("BaBa"));
+  console.log(repeatChar("schOol","s"));
   /*
   14
   Write a function called repeatChar
