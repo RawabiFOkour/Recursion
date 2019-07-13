@@ -515,4 +515,4 @@ function welcomeSayHello(nubmer) {
 	return string;
 }
 
-console.log(welcomeSayHello(4));
+console.log(welcomeSayHello(7));
